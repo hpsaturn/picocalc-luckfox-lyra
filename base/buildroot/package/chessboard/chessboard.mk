@@ -4,7 +4,7 @@
 #
 ################################################################################
 
-CHESSBOARD_VERSION = 789bc8ce7d704f3dee3067e6f425467eb7158c3d
+CHESSBOARD_VERSION = 6ced8c6132645be4ee01de0e066aa1800e1cc4ce
 CHESSBOARD_SITE= https://github.com/hpsaturn/chessboard
 CHESSBOARD_SITE_METHOD = git
 
